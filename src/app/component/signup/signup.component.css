@@ -47,7 +47,7 @@
   
   .btn-disable {
     opacity: 0.5; /* You can adjust the opacity value to visually indicate the disabled state */
-    cursor: not-allowed;
+    /* cursor: not-allowed; */
   }
   
   .btn-disable:disabled {
